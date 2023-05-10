@@ -1,4 +1,4 @@
-public class Empregado{
+public class Empregado {
 
         private String nome;
         private float salario;

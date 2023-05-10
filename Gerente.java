@@ -19,4 +19,8 @@ public class Gerente extends Empregado{
         this.departamento = departamento;
     }
 
+    public String getGerente() {
+        return null;
+    }
+
 }

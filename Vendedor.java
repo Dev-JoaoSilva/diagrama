@@ -19,6 +19,10 @@ public class Vendedor extends Empregado{
         this.percentualComissao = percentualComissao;
     }
 
+    public String getVendedor() {
+        return null;
+    }
+
 
 
 }
